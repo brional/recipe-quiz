@@ -11,9 +11,6 @@ This project was created using javascript as the backend aswell as Html and CSS 
 Insert gif or link to demo
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Roadmap
