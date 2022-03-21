@@ -3,7 +3,7 @@
 I created a personality quiz that tells you which recipe you are based on the answers you give, these are a selection of Guosto customer favourites. I am currently learning javascript so this project has taken longer than expected to complete.
 
 ## Development
-This project was created using javascript as the backend aswell as Html and CSS to display the page. This project is being developed in VScode using the Live serve extension.
+This project was created using javascript as the backend aswell as Html and CSS to display the page. This project is being developed in VScode using the Live server extension.
 
 
 ## Demo
